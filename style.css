@@ -1,0 +1,47 @@
+html body{
+    background-color: #2E1012;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./img/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+.clm-2{
+    background-color: #F3CC4D;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5rem;
+    gap: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 537px;
+}
+p{
+    
+    width: 400px;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Indie Flower", cursive;
+}
+.btn{
+    background-color: #2E1012;
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.logo{
+    padding-left: 4em;
+    width: auto;
+    width: auto;
+}
+.clm-1, .clm-3{
+    display: grid;
+    align-items: center;
+}
